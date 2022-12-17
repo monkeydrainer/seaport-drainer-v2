@@ -1,11 +1,11 @@
 ### If you have questions or need any help, Message me here: [@crypto_scem](https://t.me/crypto_scem) 
-
+---
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template / ETH Drainer / NFT Drainer / Seaport Drainer
-
+---
 ![preview](https://i.ibb.co/JBFPXvn/drainer.png)
+---
 [Drainer - FULL VERSION](https://t.me/crypto_scem)
-
-
+---
 ## `✏️ Guide on Setting Up the Template:` 
 you need to edit the **index.js** file. 
 
